@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class test1 : MonoBehaviour
-{
+{   
+    public transform trans; 
     // Start is called before the first frame update
     void Start()
     {
